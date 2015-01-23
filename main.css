@@ -1,6 +1,57 @@
 .nav{
       font-size: 12px;
-      color: #248;
+      color: #00ffff;
       font-family: arial;
-      background-color: #0099ag;
+      background-color: #a9a9a9;
       display: inline;
+
+  }
+
+header {
+      text-align: center;
+      background: url("https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10386917_10152342062304102_6375566315110652908_o.jpg");
+      background-size: 80 px 60 px;
+      background-position: center;
+      color: white;
+    }
+
+body {
+      text-align: center;
+      color: #629;
+      font-family: helvetica;
+    }
+
+    h1 {
+      font-size: 50px;
+    }
+    u1 {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    p {
+      font-size: 20px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+     @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+      }
+      li {
+        display: block;
+        padding: 5px;
+      body {
+        background: blue;
+      }
+      }
