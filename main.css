@@ -1,16 +1,17 @@
 header {
       text-align: center;
       background: url("https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10386917_10152342062304102_6375566315110652908_o.jpg");
-      background-size: 80 px 60 px;
+      background-size: auto;
       background-position: center;
       color: white;
     }
 
-body {
+#intro {
       text-align: center;
-      color: #f0f8ff;
+      background-color: #f0f8ff;
       font-family: helvetica;
     }
+
 a {
       color: #fff;
     }
