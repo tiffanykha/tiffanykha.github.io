@@ -1,7 +1,7 @@
 header {
       text-align: center;
       background: url("https://c1.staticflickr.com/9/8844/17525498334_c9d24e4274_b.jpg");
-      background-size: 100% 100%;
+      background-size: cover;
       background-position: center;
       color: #ffff;
       font-family: calibri;
