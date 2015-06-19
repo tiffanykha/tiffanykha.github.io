@@ -24,6 +24,7 @@ header {
 #csprojs {
   font-family: calibri;
   background-color: #f23dh3;
+  padding: 20px 20px 20px 20px;
 }
 a {
       color: #fff;
@@ -35,10 +36,10 @@ a:hover {
 summary:after {
     content: "+";
     color: #FF00FF;
-    float: left;
-    font-size: 1.5em;
+    float: center;
+    font-size: 15px;
     font-weight: bold;
-    margin: -5px 5px 0 0;
+    margin: 5px 5px 0 0;
     padding: 0;
     text-align: center;
     width: 20px;
@@ -58,11 +59,15 @@ u1 {
     }
 li {
       display: inline;
-      padding: 0px 10px 0px 10px;
+      padding: 5px 10px 5px 10px;
     }
 p {
       font-size: 20px;
     }
+footer {
+  text-align: right;
+  padding-right: 10px;
+}
     
 @media (max-width: 500px) {
       h1 {
@@ -85,10 +90,3 @@ p {
       display: inline;
 
   }
-
-.projects{
-  font-size: 12px;
-    color: #00ffff;
-    font-family: calibri;
-    background-color: #f0f8ff;
-}
