@@ -1,9 +1,11 @@
-header {
-      text-align: center;
+#jumbotron {
+      text-align: right;
+      padding-right: 20px;
+      padding-top: 20px;
       background: url("https://c1.staticflickr.com/9/8844/17525498334_c9d24e4274_b.jpg");
       background-size: cover;
       background-position: center;
-      color: #ffff;
+      color: ##0ABAB5;
       font-family: calibri;
       font-size: 20px;
     }
@@ -11,7 +13,6 @@ header {
 #intro {
       text-align: center;
       background-color: #f0f8ff;
-      font-family: calibri;
       font-size: 12px;
     }
 
@@ -22,7 +23,6 @@ header {
 }
 
 #csprojs {
-  font-family: calibri;
   background-color: #f23dh3;
   padding: 20px 20px 20px 20px;
 }
@@ -85,7 +85,6 @@ footer {
 .nav{
       font-size: 12px;
       color: #00ffff;
-      font-family: calibri;
       background-color: #a9a9a9;
       display: inline;
 
