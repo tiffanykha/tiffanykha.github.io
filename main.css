@@ -36,18 +36,16 @@ a:hover {
 summary:after {
     content: "+";
     color: #FF00FF;
-    float: center;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: bold;
-    margin: 5px 5px 0 0;
-    padding: 0;
     text-align: center;
     width: 20px;
 }
 
 details[open] summary:after {
     content: "-";
-    color: #FFFFFF
+    color: ##82CAFA; 
+    font-size: 25px;
 }
 
 h1 {
