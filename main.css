@@ -19,8 +19,8 @@
 
 .jumbotron .container {
   position: relative;
-  top:20px;
-  bottom:20px;
+  top:100px;
+  bottom:100px;
 }
 
 .jumbotron h1 {
