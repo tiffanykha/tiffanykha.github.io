@@ -1,8 +1,8 @@
 .nav a {
   color: #5a5a5a;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: bold;
-  padding: 14px 10px;
+  padding: 14px 14px;
   text-transform: uppercase;
 }
 
@@ -12,7 +12,7 @@
 
 .jumbotron {
   background-image:url("https://farm8.staticflickr.com/7765/18102429480_63bb6dd788_b.jpg");
-  height: 840px;
+  height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -30,7 +30,7 @@
 }
 
 .jumbotron p {
-  font-size: 20px;
+  font-size: 24px;
   color: #fff;
 }
 
